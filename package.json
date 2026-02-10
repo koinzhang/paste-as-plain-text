@@ -59,6 +59,14 @@
       "required": false
     },
     {
+      "label": "Remove spaces",
+      "name": "removeSpaces",
+      "type": "checkbox",
+      "description": "Remove all spaces from plain text before pasting",
+      "default": false,
+      "required": false
+    },
+    {
       "title": "Actions When Pasting",
       "name": "autoFetchTitle",
       "label": "Auto Fetch Title",
